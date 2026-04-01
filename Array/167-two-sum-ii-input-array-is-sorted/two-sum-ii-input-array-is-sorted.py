@@ -3,11 +3,10 @@ class Solution:
         i,j = 0, len(numbers)-1
 
         while i<j:
-            target_sum = numbers[i] + numbers[j]
-
-            if target_sum == target:
+            if numbers[i] + numbers[j] == target:
                 return [i+1,j+1]
-            elif target_sum<target:
-                i+=1
+            elif numbers[i] + numbers[j] < target:
+                i += 1
             else:
-                j-=1
+                j -= 1
+        return [i+1,j+1]
