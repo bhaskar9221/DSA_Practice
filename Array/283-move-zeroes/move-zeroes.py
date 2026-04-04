@@ -4,7 +4,8 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         k = 0
-        for i,num in enumerate(nums):
-            if num != 0 :
-                nums[k],nums[i] = nums[i], nums[k]
+        for i,num in enumerate(nums): 
+            if num != 0:
+                nums[i], nums[k] = nums[k], nums[i]
                 k += 1
+        
