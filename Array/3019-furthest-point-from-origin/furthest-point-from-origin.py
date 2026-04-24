@@ -13,4 +13,5 @@ class Solution:
                 count_ += 1
         
 
-        return max(abs(count_left-count_right+count_),abs(count_left-count_right-count_))
+        #return max(abs(count_left-count_right+count_),abs(count_left-count_right-count_))
+        return (abs(count_left-count_right)+count_)
