@@ -4,16 +4,10 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **172**
-- Difficulty: **Easy**: 77, **Level**: 43, **Medium**: 49, **Hard**: 3
+- Total problems discovered: **171**
+- Difficulty: **Level**: 43, **Easy**: 76, **Medium**: 49, **Hard**: 3
 
 ---
-## 1-two-sum
-
-| Problem | Difficulty | Language | Link |
-|---|---:|---|---|
-| Two Sum | Easy | MD / Python | [Two Sum](1-two-sum) |
-
 ## Array
 
 | Problem | Difficulty | Language | Link |
