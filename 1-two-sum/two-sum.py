@@ -3,8 +3,9 @@ class Solution:
         table = {}
 
         for i,num in enumerate(nums):
-            difference = target-num
+            difference=target-num
+
 
             if difference in table:
-                return [table[difference], i]
+                return [table[difference],i]
             table[num] = i
