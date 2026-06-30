@@ -8,6 +8,45 @@ from collections import defaultdict, Counter
 ROOT = Path(__file__).resolve().parents[1]
 MARKER_START = '<!-- GENERATED-README:START -->'
 MARKER_END = '<!-- GENERATED-README:END -->'
+LEETCODE_TOP_RE = re.compile(r'^\d+-')
+ORGANIZED_PARENTS = ('Array', 'Data Structures & Algorithms')
+
+
+def parse_difficulty(text: str, readme_path: Path) -> str:
+    """Extract difficulty from LeetCode badges, GFG headings, or folder path."""
+    for pattern in (
+        r"alt=['\"]Difficulty[:\- ]*([A-Za-z]+)['\"]",
+        r'badge-Difficulty-([A-Za-z]+)',
+        r'Difficulty Level\s*:\s*Difficulty:\s*(\w+)',
+        r'Difficulty:\s*(\w+)',
+    ):
+        m = re.search(pattern, text, re.I)
+        if m:
+            return m.group(1).strip().capitalize()
+
+    for part in readme_path.relative_to(ROOT).parts:
+        if part.startswith('Difficulty:'):
+            return part.split(':', 1)[1].strip()
+
+    return 'Unknown'
+
+
+def should_skip(readme_path: Path) -> bool:
+    rel = readme_path.parent.relative_to(ROOT)
+    if len(rel.parts) != 1:
+        return False
+    slug = rel.parts[0]
+    if not LEETCODE_TOP_RE.match(slug):
+        return False
+    return any((ROOT / parent / slug).is_dir() for parent in ORGANIZED_PARENTS)
+
+
+def topic_for(readme_path: Path) -> str:
+    rel = readme_path.parent.relative_to(ROOT)
+    top = rel.parts[0]
+    if len(rel.parts) == 1 and LEETCODE_TOP_RE.match(top):
+        return 'LeetCode'
+    return top
 
 
 def parse_problem(readme_path: Path):
@@ -23,16 +62,7 @@ def parse_problem(readme_path: Path):
         title = m2.group(1).strip() if m2 else readme_path.parent.name
         url = ''
 
-    # difficulty
-    d = None
-    m = re.search(r"alt=[\'\"]Difficulty[:\- ]*([A-Za-z]+)[\'\"]", text)
-    if not m:
-        m = re.search(r'badge-Difficulty-([A-Za-z]+)', text)
-    if m:
-        d = m.group(1)
-    else:
-        m = re.search(r'\bDifficulty\s*[:\-]?\s*([A-Za-z]+)\b', text)
-        d = m.group(1) if m else 'Unknown'
+    d = parse_difficulty(text, readme_path)
 
     # languages
     exts = set()
@@ -64,19 +94,20 @@ def parse_problem(readme_path: Path):
 def collect_problems():
     problems = defaultdict(list)
     all_items = []
-    # Top-level folders to exclude from generated listing
-    EXCLUDE_TOP = {'1-two-sum'}
-    for md in ROOT.rglob('README.md'):
-        if md.parent == ROOT:
+    seen_paths = set()
+    for md in sorted(ROOT.rglob('README.md')):
+        if md.parent == ROOT or should_skip(md):
+            continue
+        rel = md.parent.relative_to(ROOT).as_posix()
+        if rel in seen_paths:
             continue
         try:
             item = parse_problem(md)
         except Exception:
             continue
-        top = md.parent.relative_to(ROOT).parts[0]
-        if top in EXCLUDE_TOP:
-            continue
-        problems[top].append(item)
+        seen_paths.add(rel)
+        topic = topic_for(md)
+        problems[topic].append(item)
         all_items.append(item)
     return problems, all_items
 

@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **171**
-- Difficulty: **Level**: 43, **Easy**: 76, **Medium**: 49, **Hard**: 3
+- Total problems discovered: **200**
+- Difficulty: **Easy**: 91, **Medium**: 67, **Hard**: 11, **Basic**: 31
 
 ---
 ## Array
@@ -19,6 +19,7 @@ This repository contains my DSA practice solutions.
 | Asteroid Collision | Medium | Python | [Asteroid Collision](Array/735-asteroid-collision) |
 | Best Time to Buy and Sell Stock II | Medium | Python | [Best Time to Buy and Sell Stock II](Array/122-best-time-to-buy-and-sell-stock-ii) |
 | Binary Search | Easy | Python | [Binary Search](Array/792-binary-search) |
+| Block Placement Queries | Hard | Python | [Block Placement Queries](Array/3435-block-placement-queries) |
 | Boats to Save People | Medium | Python | [Boats to Save People](Array/917-boats-to-save-people) |
 | Check if Array is Good | Easy | Python | [Check if Array is Good](Array/2892-check-if-array-is-good) |
 | Check if the Sentence Is Pangram | Easy | Python | [Check if the Sentence Is Pangram](Array/1960-check-if-the-sentence-is-pangram) |
@@ -33,6 +34,8 @@ This repository contains my DSA practice solutions.
 | Count Primes | Medium | Python | [Count Primes](Array/204-count-primes) |
 | Count Submatrices With Equal Frequency of X and Y | Medium | Python | [Count Submatrices With Equal Frequency of X and Y](Array/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | Count the Digits That Divide a Number | Easy | Python | [Count the Digits That Divide a Number](Array/2608-count-the-digits-that-divide-a-number) |
+| Count the Number of Special Characters I | Easy | Python | [Count the Number of Special Characters I](Array/3408-count-the-number-of-special-characters-i) |
+| Count the Number of Special Characters II | Medium | Python | [Count the Number of Special Characters II](Array/3405-count-the-number-of-special-characters-ii) |
 | Cyclically Rotating a Grid | Medium | Python | [Cyclically Rotating a Grid](Array/2043-cyclically-rotating-a-grid) |
 | Daily Temperatures | Medium | Python | [Daily Temperatures](Array/739-daily-temperatures) |
 | Design HashSet | Easy | Python | [Design HashSet](Array/816-design-hashset) |
@@ -64,8 +67,11 @@ This repository contains my DSA practice solutions.
 | Jump Game III | Medium | Python | [Jump Game III](Array/1428-jump-game-iii) |
 | Jump Game IV | Hard | Python | [Jump Game IV](Array/1447-jump-game-iv) |
 | Jump Game IX | Medium | Python | [Jump Game IX](Array/3981-jump-game-ix) |
+| Jump Game V | Hard | Python | [Jump Game V](Array/1466-jump-game-v) |
+| Jump Game VII | Medium | Python | [Jump Game VII](Array/2001-jump-game-vii) |
 | Length of Last Word | Easy | Python | [Length of Last Word](Array/58-length-of-last-word) |
 | Longest Common Prefix | Easy | Python | [Longest Common Prefix](Array/14-longest-common-prefix) |
+| Longest Common Suffix Queries | Hard | Python | [Longest Common Suffix Queries](Array/3376-longest-common-suffix-queries) |
 | Majority Element | Easy | Python | [Majority Element](Array/169-majority-element) |
 | Majority Element II | Medium | Python | [Majority Element II](Array/229-majority-element-ii) |
 | Max Consecutive Ones | Easy | Python | [Max Consecutive Ones](Array/485-max-consecutive-ones) |
@@ -76,6 +82,7 @@ This repository contains my DSA practice solutions.
 | Merge Strings Alternately | Easy | Python | [Merge Strings Alternately](Array/1894-merge-strings-alternately) |
 | Minimum Common Value | Easy | Python | [Minimum Common Value](Array/2634-minimum-common-value) |
 | Minimum Distance to the Target Element | Easy | Python | [Minimum Distance to the Target Element](Array/1975-minimum-distance-to-the-target-element) |
+| Minimum Element After Replacement With Digit Sum | Easy | Python | [Minimum Element After Replacement With Digit Sum](Array/3606-minimum-element-after-replacement-with-digit-sum) |
 | Minimum Index Sum of Two Lists | Easy | Python | [Minimum Index Sum of Two Lists](Array/599-minimum-index-sum-of-two-lists) |
 | Minimum Jumps to Reach End via Prime Teleportation | Medium | — | [Minimum Jumps to Reach End via Prime Teleportation](Array/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | Minimum Moves to Make Array Complementary | Medium | Python | [Minimum Moves to Make Array Complementary](Array/1793-minimum-moves-to-make-array-complementary) |
@@ -145,59 +152,86 @@ This repository contains my DSA practice solutions.
 
 | Problem | Difficulty | Language | Link |
 |---|---:|---|---|
-| 1 to n Without Loops | Level | — | [1 to n Without Loops](Difficulty: Basic/1 to n Without Loops) |
-| Array Search | Level | Python | [Array Search](Difficulty: Basic/Array Search) |
-| C++ Hello World | Level | — | [C++ Hello World](Difficulty: Basic/C++ Hello World) |
-| Count Squares | Level | Python | [Count Squares](Difficulty: Basic/Count Squares) |
-| Extract the integers | Level | Python | [Extract the integers](Difficulty: Basic/Extract the integers) |
-| Fibonacci Using Recursion | Level | — | [Fibonacci Using Recursion](Difficulty: Basic/Fibonacci Using Recursion) |
-| First n Fibonacci | Level | — | [First n Fibonacci](Difficulty: Basic/First n Fibonacci) |
-| First Occurence | Level | Python | [First Occurence](Difficulty: Basic/First Occurence) |
-| G.F Series | Level | — | [G.F Series](Difficulty: Basic/G.F Series) |
-| GCD of two numbers | Level | Python | [GCD of two numbers](Difficulty: Basic/GCD of two numbers) |
-| Identical Linked Lists | Level | Python | [Identical Linked Lists](Difficulty: Basic/Identical Linked Lists) |
-| Ishaan Loves Chocolates | Level | Python | [Ishaan Loves Chocolates](Difficulty: Basic/Ishaan Loves Chocolates) |
-| Java Hello World | Level | — | [Java Hello World](Difficulty: Basic/Java Hello World) |
-| Last index of One | Level | Python | [Last index of One](Difficulty: Basic/Last index of One) |
-| LCM And GCD | Level | — | [LCM And GCD](Difficulty: Basic/LCM And GCD) |
-| Length of Linked List | Level | Python | [Length of Linked List](Difficulty: Basic/Length of Linked List) |
-| Linked List End Insertion | Level | Python | [Linked List End Insertion](Difficulty: Basic/Linked List End Insertion) |
-| Max Min | Level | Python | [Max Min](Difficulty: Basic/Max Min) |
-| Median of an Array | Level | Python | [Median of an Array](Difficulty: Basic/Median of an Array) |
-| Modular Node | Level | — | [Modular Node](Difficulty: Basic/Modular Node) |
-| Print 1 To N Without Loop | Level | Python | [Print 1 To N Without Loop](Difficulty: Basic/Print 1 To N Without Loop) |
-| Print Linked List | Level | Python | [Print Linked List](Difficulty: Basic/Print Linked List) |
-| Print Number Pattern | Level | Python | [Print Number Pattern](Difficulty: Basic/Print Number Pattern) |
-| Queue using Linked List | Level | — | [Queue using Linked List](Difficulty: Basic/Queue using Linked List) |
-| Reverse a String | Level | Python | [Reverse a String](Difficulty: Basic/Reverse a String) |
-| Rotating an Array | Level | Python | [Rotating an Array](Difficulty: Basic/Rotating an Array) |
-| Search In Linked List | Level | Python | [Search In Linked List](Difficulty: Basic/Search In Linked List) |
-| Sorted Array Search | Level | Python | [Sorted Array Search](Difficulty: Basic/Sorted Array Search) |
-| Start Coding - Python | Level | Python | [Start Coding - Python](Difficulty: Basic/Start Coding - Python) |
-| Sum of Digits | Level | Python | [Sum of Digits](Difficulty: Basic/Sum of Digits) |
-| Swap The Numbers | Level | Python | [Swap The Numbers](Difficulty: Basic/Swap The Numbers) |
+| 1 to n Without Loops | Basic | — | [1 to n Without Loops](Difficulty: Basic/1 to n Without Loops) |
+| Array Search | Basic | Python | [Array Search](Difficulty: Basic/Array Search) |
+| C++ Hello World | Basic | — | [C++ Hello World](Difficulty: Basic/C++ Hello World) |
+| Count Squares | Basic | Python | [Count Squares](Difficulty: Basic/Count Squares) |
+| Extract the integers | Basic | Python | [Extract the integers](Difficulty: Basic/Extract the integers) |
+| Fibonacci Using Recursion | Basic | — | [Fibonacci Using Recursion](Difficulty: Basic/Fibonacci Using Recursion) |
+| First n Fibonacci | Basic | — | [First n Fibonacci](Difficulty: Basic/First n Fibonacci) |
+| First Occurence | Basic | Python | [First Occurence](Difficulty: Basic/First Occurence) |
+| G.F Series | Basic | — | [G.F Series](Difficulty: Basic/G.F Series) |
+| GCD of two numbers | Basic | Python | [GCD of two numbers](Difficulty: Basic/GCD of two numbers) |
+| Identical Linked Lists | Basic | Python | [Identical Linked Lists](Difficulty: Basic/Identical Linked Lists) |
+| Ishaan Loves Chocolates | Basic | Python | [Ishaan Loves Chocolates](Difficulty: Basic/Ishaan Loves Chocolates) |
+| Java Hello World | Basic | — | [Java Hello World](Difficulty: Basic/Java Hello World) |
+| Last index of One | Basic | Python | [Last index of One](Difficulty: Basic/Last index of One) |
+| LCM And GCD | Basic | — | [LCM And GCD](Difficulty: Basic/LCM And GCD) |
+| Length of Linked List | Basic | Python | [Length of Linked List](Difficulty: Basic/Length of Linked List) |
+| Linked List End Insertion | Basic | Python | [Linked List End Insertion](Difficulty: Basic/Linked List End Insertion) |
+| Max Min | Basic | Python | [Max Min](Difficulty: Basic/Max Min) |
+| Median of an Array | Basic | Python | [Median of an Array](Difficulty: Basic/Median of an Array) |
+| Modular Node | Basic | — | [Modular Node](Difficulty: Basic/Modular Node) |
+| Print 1 To N Without Loop | Basic | Python | [Print 1 To N Without Loop](Difficulty: Basic/Print 1 To N Without Loop) |
+| Print Linked List | Basic | Python | [Print Linked List](Difficulty: Basic/Print Linked List) |
+| Print Number Pattern | Basic | Python | [Print Number Pattern](Difficulty: Basic/Print Number Pattern) |
+| Queue using Linked List | Basic | — | [Queue using Linked List](Difficulty: Basic/Queue using Linked List) |
+| Reverse a String | Basic | Python | [Reverse a String](Difficulty: Basic/Reverse a String) |
+| Rotating an Array | Basic | Python | [Rotating an Array](Difficulty: Basic/Rotating an Array) |
+| Search In Linked List | Basic | Python | [Search In Linked List](Difficulty: Basic/Search In Linked List) |
+| Sorted Array Search | Basic | Python | [Sorted Array Search](Difficulty: Basic/Sorted Array Search) |
+| Start Coding - Python | Basic | Python | [Start Coding - Python](Difficulty: Basic/Start Coding - Python) |
+| Sum of Digits | Basic | Python | [Sum of Digits](Difficulty: Basic/Sum of Digits) |
+| Swap The Numbers | Basic | Python | [Swap The Numbers](Difficulty: Basic/Swap The Numbers) |
 
 ## Difficulty: Easy
 
 | Problem | Difficulty | Language | Link |
 |---|---:|---|---|
-| Armstrong Numbers | Level | Python | [Armstrong Numbers](Difficulty: Easy/Armstrong Numbers) |
-| Array Leaders | Level | Python | [Array Leaders](Difficulty: Easy/Array Leaders) |
-| Binary Search | Level | — | [Binary Search](Difficulty: Easy/Binary Search) |
-| Bubble Sort | Level | Python | [Bubble Sort](Difficulty: Easy/Bubble Sort) |
-| Check if array is sorted | Level | Python | [Check if array is sorted](Difficulty: Easy/Check if array is sorted) |
-| Count Digits | Level | Python | [Count Digits](Difficulty: Easy/Count Digits) |
-| Equilibrium Point | Level | Python | [Equilibrium Point](Difficulty: Easy/Equilibrium Point) |
-| Missing in Array | Level | Python | [Missing in Array](Difficulty: Easy/Missing in Array) |
-| Parenthesis Checker | Level | Python | [Parenthesis Checker](Difficulty: Easy/Parenthesis Checker) |
+| Armstrong Numbers | Easy | Python | [Armstrong Numbers](Difficulty: Easy/Armstrong Numbers) |
+| Array Leaders | Easy | Python | [Array Leaders](Difficulty: Easy/Array Leaders) |
+| Binary Search | Easy | — | [Binary Search](Difficulty: Easy/Binary Search) |
+| Bubble Sort | Easy | Python | [Bubble Sort](Difficulty: Easy/Bubble Sort) |
+| Check if array is sorted | Easy | Python | [Check if array is sorted](Difficulty: Easy/Check if array is sorted) |
+| Count Digits | Easy | Python | [Count Digits](Difficulty: Easy/Count Digits) |
+| Equilibrium Point | Easy | Python | [Equilibrium Point](Difficulty: Easy/Equilibrium Point) |
+| Missing in Array | Easy | Python | [Missing in Array](Difficulty: Easy/Missing in Array) |
+| Parenthesis Checker | Easy | Python | [Parenthesis Checker](Difficulty: Easy/Parenthesis Checker) |
 
 ## Difficulty: Medium
 
 | Problem | Difficulty | Language | Link |
 |---|---:|---|---|
-| Kadane's Algorithm | Level | Python | [Kadane's Algorithm](Difficulty: Medium/Kadane's Algorithm) |
-| Majority Element | Level | Python | [Majority Element](Difficulty: Medium/Majority Element) |
-| Union of 2 Sorted Arrays | Level | Python | [Union of 2 Sorted Arrays](Difficulty: Medium/Union of 2 Sorted Arrays) |
+| Indexes of Subarray Sum | Medium | Python | [Indexes of Subarray Sum](Difficulty: Medium/Indexes of Subarray Sum) |
+| Kadane's Algorithm | Medium | Python | [Kadane's Algorithm](Difficulty: Medium/Kadane's Algorithm) |
+| Majority Element | Medium | Python | [Majority Element](Difficulty: Medium/Majority Element) |
+| Union of 2 Sorted Arrays | Medium | Python | [Union of 2 Sorted Arrays](Difficulty: Medium/Union of 2 Sorted Arrays) |
+
+## LeetCode
+
+| Problem | Difficulty | Language | Link |
+|---|---:|---|---|
+| Angle Between Hands of a Clock | Medium | Python | [Angle Between Hands of a Clock](1446-angle-between-hands-of-a-clock) |
+| Car Fleet | Medium | Python | [Car Fleet](883-car-fleet) |
+| Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
+| Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
+| Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
+| Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
+| Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
+| Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
+| Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
+| Maximum Number of Balloons | Easy | Python | [Maximum Number of Balloons](1297-maximum-number-of-balloons) |
+| Maximum Total Subarray Value I | Medium | Python | [Maximum Total Subarray Value I](4005-maximum-total-subarray-value-i) |
+| Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
+| Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
+| Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
+| Number of Ways to Assign Edge Weights I | Medium | Python | [Number of Ways to Assign Edge Weights I](3844-number-of-ways-to-assign-edge-weights-i) |
+| Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
+| Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
+| Partition Array According to Given Pivot | Medium | — | [Partition Array According to Given Pivot](2265-partition-array-according-to-given-pivot) |
+| Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
+| Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
 ---
 *Generated by `scripts/generate_readme.py`.*
