@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **200**
-- Difficulty: **Easy**: 91, **Medium**: 67, **Hard**: 11, **Basic**: 31
+- Total problems discovered: **201**
+- Difficulty: **Easy**: 91, **Medium**: 68, **Hard**: 11, **Basic**: 31
 
 ---
 ## Array
@@ -226,6 +226,7 @@ This repository contains my DSA practice solutions.
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
 | Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
+| Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
 | Number of Ways to Assign Edge Weights I | Medium | Python | [Number of Ways to Assign Edge Weights I](3844-number-of-ways-to-assign-edge-weights-i) |
 | Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
 | Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
