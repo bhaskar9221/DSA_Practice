@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **203**
-- Difficulty: **Easy**: 91, **Medium**: 69, **Hard**: 12, **Basic**: 31
+- Total problems discovered: **204**
+- Difficulty: **Easy**: 91, **Medium**: 70, **Hard**: 12, **Basic**: 31
 
 ---
 ## Array
@@ -227,6 +227,7 @@ This repository contains my DSA practice solutions.
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
 | Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
+| Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
 | Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
 | Number of Ways to Assign Edge Weights I | Medium | Python | [Number of Ways to Assign Edge Weights I](3844-number-of-ways-to-assign-edge-weights-i) |
