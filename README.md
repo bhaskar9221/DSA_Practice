@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **205**
-- Difficulty: **Hard**: 13, **Easy**: 91, **Medium**: 70, **Basic**: 31
+- Total problems discovered: **206**
+- Difficulty: **Hard**: 13, **Easy**: 91, **Medium**: 71, **Basic**: 31
 
 ---
 ## Array
@@ -213,6 +213,7 @@ This repository contains my DSA practice solutions.
 |---|---:|---|---|
 | Angle Between Hands of a Clock | Medium | Python | [Angle Between Hands of a Clock](1446-angle-between-hands-of-a-clock) |
 | Car Fleet | Medium | Python | [Car Fleet](883-car-fleet) |
+| Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Python | [Concatenate Non-Zero Digits and Multiply by Sum II](4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
