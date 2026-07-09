@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **206**
-- Difficulty: **Hard**: 13, **Easy**: 91, **Medium**: 71, **Basic**: 31
+- Total problems discovered: **207**
+- Difficulty: **Hard**: 13, **Easy**: 91, **Medium**: 72, **Basic**: 31
 
 ---
 ## Array
@@ -236,6 +236,7 @@ This repository contains my DSA practice solutions.
 | Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
 | Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
 | Partition Array According to Given Pivot | Medium | — | [Partition Array According to Given Pivot](2265-partition-array-according-to-given-pivot) |
+| Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
