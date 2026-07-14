@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **208**
-- Difficulty: **Medium**: 73, **Hard**: 13, **Easy**: 91, **Basic**: 31
+- Total problems discovered: **209**
+- Difficulty: **Medium**: 73, **Hard**: 14, **Easy**: 91, **Basic**: 31
 
 ---
 ## Array
@@ -219,6 +219,7 @@ This repository contains my DSA practice solutions.
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
+| Find the Number of Subsequences With Equal GCD | Hard | Python | [Find the Number of Subsequences With Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) |
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
