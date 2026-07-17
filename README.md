@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **210**
-- Difficulty: **Medium**: 73, **Hard**: 14, **Easy**: 92, **Basic**: 31
+- Total problems discovered: **211**
+- Difficulty: **Medium**: 73, **Hard**: 15, **Easy**: 92, **Basic**: 31
 
 ---
 ## Array
@@ -241,6 +241,7 @@ This repository contains my DSA practice solutions.
 | Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
 | Sequential Digits | Medium | — | [Sequential Digits](1212-sequential-digits) |
+| Sorted GCD Pair Queries | Hard | Python | [Sorted GCD Pair Queries](3583-sorted-gcd-pair-queries) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
 ---
