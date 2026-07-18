@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **211**
-- Difficulty: **Medium**: 73, **Hard**: 15, **Easy**: 92, **Basic**: 31
+- Total problems discovered: **212**
+- Difficulty: **Medium**: 73, **Hard**: 15, **Easy**: 93, **Basic**: 31
 
 ---
 ## Array
@@ -218,6 +218,7 @@ This repository contains my DSA practice solutions.
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| Find Greatest Common Divisor of Array | Easy | — | [Find Greatest Common Divisor of Array](2106-find-greatest-common-divisor-of-array) |
 | Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
 | Find the Number of Subsequences With Equal GCD | Hard | Python | [Find the Number of Subsequences With Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) |
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
