@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **214**
-- Difficulty: **Medium**: 73, **Hard**: 16, **Easy**: 94, **Basic**: 31
+- Total problems discovered: **215**
+- Difficulty: **Medium**: 74, **Hard**: 16, **Easy**: 94, **Basic**: 31
 
 ---
 ## Array
@@ -236,6 +236,7 @@ This repository contains my DSA practice solutions.
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
 | Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
+| Number of Unique XOR Triplets I | Medium | Python | [Number of Unique XOR Triplets I](3824-number-of-unique-xor-triplets-i) |
 | Number of Ways to Assign Edge Weights I | Medium | Python | [Number of Ways to Assign Edge Weights I](3844-number-of-ways-to-assign-edge-weights-i) |
 | Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
 | Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
