@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **216**
-- Difficulty: **Medium**: 75, **Hard**: 16, **Easy**: 94, **Basic**: 31
+- Total problems discovered: **217**
+- Difficulty: **Medium**: 75, **Hard**: 16, **Easy**: 95, **Basic**: 31
 
 ---
 ## Array
@@ -228,6 +228,7 @@ This repository contains my DSA practice solutions.
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
 | Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
 | Maximum Number of Balloons | Easy | Python | [Maximum Number of Balloons](1297-maximum-number-of-balloons) |
+| Maximum Product of Three Numbers | Easy | Python | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers) |
 | Maximum Total Subarray Value I | Medium | Python | [Maximum Total Subarray Value I](4005-maximum-total-subarray-value-i) |
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
