@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **217**
-- Difficulty: **Medium**: 75, **Hard**: 16, **Easy**: 95, **Basic**: 31
+- Total problems discovered: **218**
+- Difficulty: **Medium**: 75, **Hard**: 17, **Easy**: 95, **Basic**: 31
 
 ---
 ## Array
@@ -247,6 +247,7 @@ This repository contains my DSA practice solutions.
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
 | Sequential Digits | Medium | — | [Sequential Digits](1212-sequential-digits) |
 | Shift 2D Grid | Easy | — | [Shift 2D Grid](1386-shift-2d-grid) |
+| Smallest Palindromic Rearrangement II | Hard | — | [Smallest Palindromic Rearrangement II](3813-smallest-palindromic-rearrangement-ii) |
 | Sorted GCD Pair Queries | Hard | Python | [Sorted GCD Pair Queries](3583-sorted-gcd-pair-queries) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
