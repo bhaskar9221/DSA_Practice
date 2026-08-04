@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **220**
-- Difficulty: **Medium**: 76, **Hard**: 17, **Easy**: 96, **Basic**: 31
+- Total problems discovered: **221**
+- Difficulty: **Medium**: 76, **Hard**: 17, **Easy**: 97, **Basic**: 31
 
 ---
 ## Array
@@ -219,6 +219,7 @@ This repository contains my DSA practice solutions.
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | Find Greatest Common Divisor of Array | Easy | — | [Find Greatest Common Divisor of Array](2106-find-greatest-common-divisor-of-array) |
+| Find Missing Elements | Easy | Python | [Find Missing Elements](4107-find-missing-elements) |
 | Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
 | Find the Number of Subsequences With Equal GCD | Hard | Python | [Find the Number of Subsequences With Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) |
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
