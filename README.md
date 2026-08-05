@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **221**
-- Difficulty: **Medium**: 76, **Hard**: 17, **Easy**: 97, **Basic**: 31
+- Total problems discovered: **222**
+- Difficulty: **Medium**: 77, **Hard**: 17, **Easy**: 97, **Basic**: 31
 
 ---
 ## Array
@@ -247,6 +247,7 @@ This repository contains my DSA practice solutions.
 | Partition Array According to Given Pivot | Medium | — | [Partition Array According to Given Pivot](2265-partition-array-according-to-given-pivot) |
 | Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
+| Remove Methods From Project | Medium | Python | [Remove Methods From Project](3561-remove-methods-from-project) |
 | Sequential Digits | Medium | — | [Sequential Digits](1212-sequential-digits) |
 | Shift 2D Grid | Easy | — | [Shift 2D Grid](1386-shift-2d-grid) |
 | Smallest Palindromic Rearrangement II | Hard | — | [Smallest Palindromic Rearrangement II](3813-smallest-palindromic-rearrangement-ii) |
