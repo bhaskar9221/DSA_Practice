@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **226**
-- Difficulty: **Medium**: 78, **Hard**: 19, **Easy**: 98, **Basic**: 31
+- Total problems discovered: **227**
+- Difficulty: **Medium**: 79, **Hard**: 19, **Easy**: 98, **Basic**: 31
 
 ---
 ## Array
@@ -226,6 +226,7 @@ This repository contains my DSA practice solutions.
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
 | GCD of Odd and Even Sums | Easy | Python | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
+| Length of Longest Subarray With at Most K Frequency | Medium | — | [Length of Longest Subarray With at Most K Frequency](3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | Maximize Active Section with Trade II | Hard | Python | [Maximize Active Section with Trade II](3804-maximize-active-section-with-trade-ii) |
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
 | Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
