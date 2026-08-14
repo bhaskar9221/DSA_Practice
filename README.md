@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **228**
-- Difficulty: **Medium**: 79, **Hard**: 20, **Easy**: 98, **Basic**: 31
+- Total problems discovered: **229**
+- Difficulty: **Medium**: 79, **Hard**: 20, **Easy**: 99, **Basic**: 31
 
 ---
 ## Array
@@ -231,6 +231,7 @@ This repository contains my DSA practice solutions.
 | Maximize Active Section with Trade II | Hard | Python | [Maximize Active Section with Trade II](3804-maximize-active-section-with-trade-ii) |
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
 | Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
+| Maximum Length Substring With Two Occurrences | Easy | Python | [Maximum Length Substring With Two Occurrences](3349-maximum-length-substring-with-two-occurrences) |
 | Maximum Number of Balloons | Easy | Python | [Maximum Number of Balloons](1297-maximum-number-of-balloons) |
 | Maximum Product of Three Numbers | Easy | Python | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers) |
 | Maximum Total Subarray Value I | Medium | Python | [Maximum Total Subarray Value I](4005-maximum-total-subarray-value-i) |
