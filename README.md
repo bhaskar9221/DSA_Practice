@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **229**
-- Difficulty: **Medium**: 79, **Hard**: 20, **Easy**: 99, **Basic**: 31
+- Total problems discovered: **230**
+- Difficulty: **Medium**: 80, **Hard**: 20, **Easy**: 99, **Basic**: 31
 
 ---
 ## Array
@@ -227,6 +227,7 @@ This repository contains my DSA practice solutions.
 | GCD of Odd and Even Sums | Easy | Python | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
 | Length of Longest Subarray With at Most K Frequency | Medium | — | [Length of Longest Subarray With at Most K Frequency](3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| Longest Subsequence With Non-Zero Bitwise XOR | Medium | Python | [Longest Subsequence With Non-Zero Bitwise XOR](4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | Longest Substring of One Repeating Character | Hard | Python | [Longest Substring of One Repeating Character](2319-longest-substring-of-one-repeating-character) |
 | Maximize Active Section with Trade II | Hard | Python | [Maximize Active Section with Trade II](3804-maximize-active-section-with-trade-ii) |
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
