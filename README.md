@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **230**
-- Difficulty: **Medium**: 80, **Hard**: 20, **Easy**: 99, **Basic**: 31
+- Total problems discovered: **231**
+- Difficulty: **Medium**: 80, **Hard**: 21, **Easy**: 99, **Basic**: 31
 
 ---
 ## Array
@@ -261,6 +261,7 @@ This repository contains my DSA practice solutions.
 | Sorted GCD Pair Queries | Hard | Python | [Sorted GCD Pair Queries](3583-sorted-gcd-pair-queries) |
 | Stone Game | Medium | Python | [Stone Game](909-stone-game) |
 | Stone Game IV | Hard | Python | [Stone Game IV](1617-stone-game-iv) |
+| Stone Game V | Hard | Python | [Stone Game V](1685-stone-game-v) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
 ---
