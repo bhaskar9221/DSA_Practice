@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **232**
-- Difficulty: **Medium**: 80, **Hard**: 21, **Easy**: 100, **Basic**: 31
+- Total problems discovered: **233**
+- Difficulty: **Medium**: 80, **Hard**: 21, **Easy**: 101, **Basic**: 31
 
 ---
 ## Array
@@ -216,6 +216,7 @@ This repository contains my DSA practice solutions.
 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Python | [Concatenate Non-Zero Digits and Multiply by Sum II](4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
+| Distribute Elements Into Two Arrays I | Easy | Python | [Distribute Elements Into Two Arrays I](3347-distribute-elements-into-two-arrays-i) |
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | Find Greatest Common Divisor of Array | Easy | — | [Find Greatest Common Divisor of Array](2106-find-greatest-common-divisor-of-array) |
