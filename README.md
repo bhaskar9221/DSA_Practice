@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **233**
-- Difficulty: **Medium**: 80, **Hard**: 21, **Easy**: 101, **Basic**: 31
+- Total problems discovered: **234**
+- Difficulty: **Medium**: 81, **Hard**: 21, **Easy**: 101, **Basic**: 31
 
 ---
 ## Array
@@ -264,6 +264,7 @@ This repository contains my DSA practice solutions.
 | Stone Game | Medium | Python | [Stone Game](909-stone-game) |
 | Stone Game IV | Hard | Python | [Stone Game IV](1617-stone-game-iv) |
 | Stone Game V | Hard | Python | [Stone Game V](1685-stone-game-v) |
+| Sum Game | Medium | Python | [Sum Game](2039-sum-game) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 
 ---
