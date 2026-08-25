@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **234**
-- Difficulty: **Medium**: 81, **Hard**: 21, **Easy**: 101, **Basic**: 31
+- Total problems discovered: **235**
+- Difficulty: **Medium**: 81, **Hard**: 21, **Easy**: 102, **Basic**: 31
 
 ---
 ## Array
@@ -259,6 +259,7 @@ This repository contains my DSA practice solutions.
 | Shift 2D Grid | Easy | — | [Shift 2D Grid](1386-shift-2d-grid) |
 | Smallest Divisible Digit Product I | Easy | Python | [Smallest Divisible Digit Product I](3626-smallest-divisible-digit-product-i) |
 | Smallest Divisible Digit Product II | Hard | Python | [Smallest Divisible Digit Product II](3635-smallest-divisible-digit-product-ii) |
+| Smallest Missing Multiple of K | Easy | Python | [Smallest Missing Multiple of K](4080-smallest-missing-multiple-of-k) |
 | Smallest Palindromic Rearrangement II | Hard | — | [Smallest Palindromic Rearrangement II](3813-smallest-palindromic-rearrangement-ii) |
 | Sorted GCD Pair Queries | Hard | Python | [Sorted GCD Pair Queries](3583-sorted-gcd-pair-queries) |
 | Stone Game | Medium | Python | [Stone Game](909-stone-game) |
