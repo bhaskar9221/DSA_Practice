@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **237**
-- Difficulty: **Medium**: 82, **Hard**: 22, **Easy**: 102, **Basic**: 31
+- Total problems discovered: **238**
+- Difficulty: **Medium**: 83, **Hard**: 22, **Easy**: 102, **Basic**: 31
 
 ---
 ## Array
@@ -243,6 +243,7 @@ This repository contains my DSA practice solutions.
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
 | Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
+| Minimum Moves to Clean the Classroom | Medium | Python | [Minimum Moves to Clean the Classroom](3870-minimum-moves-to-clean-the-classroom) |
 | Minimum Number of Pushes to Type Word I | Easy | — | [Minimum Number of Pushes to Type Word I](3275-minimum-number-of-pushes-to-type-word-i) |
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
