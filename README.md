@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **239**
-- Difficulty: **Medium**: 83, **Hard**: 22, **Easy**: 103, **Basic**: 31
+- Total problems discovered: **240**
+- Difficulty: **Medium**: 84, **Hard**: 22, **Easy**: 103, **Basic**: 31
 
 ---
 ## Array
@@ -215,6 +215,7 @@ This repository contains my DSA practice solutions.
 | Car Fleet | Medium | Python | [Car Fleet](883-car-fleet) |
 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Python | [Concatenate Non-Zero Digits and Multiply by Sum II](4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | Construct Uniform Parity Array I | Easy | Python | [Construct Uniform Parity Array I](4256-construct-uniform-parity-array-i) |
+| Construct Uniform Parity Array II | Medium | Python | [Construct Uniform Parity Array II](4258-construct-uniform-parity-array-ii) |
 | Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
 | Distribute Elements Into Two Arrays I | Easy | Python | [Distribute Elements Into Two Arrays I](3347-distribute-elements-into-two-arrays-i) |
