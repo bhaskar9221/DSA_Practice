@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **242**
-- Difficulty: **Hard**: 23, **Medium**: 84, **Easy**: 104, **Basic**: 31
+- Total problems discovered: **243**
+- Difficulty: **Hard**: 24, **Medium**: 84, **Easy**: 104, **Basic**: 31
 
 ---
 ## Array
@@ -219,6 +219,7 @@ This repository contains my DSA practice solutions.
 | Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
 | Distinct Subsequences | Hard | — | [Distinct Subsequences](115-distinct-subsequences) |
+| Distinct Subsequences II | Hard | Python | [Distinct Subsequences II](977-distinct-subsequences-ii) |
 | Distribute Elements Into Two Arrays I | Easy | Python | [Distribute Elements Into Two Arrays I](3347-distribute-elements-into-two-arrays-i) |
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
