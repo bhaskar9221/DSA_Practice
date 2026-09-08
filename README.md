@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **243**
-- Difficulty: **Hard**: 24, **Medium**: 84, **Easy**: 104, **Basic**: 31
+- Total problems discovered: **244**
+- Difficulty: **Hard**: 24, **Medium**: 84, **Easy**: 105, **Basic**: 31
 
 ---
 ## Array
@@ -216,6 +216,7 @@ This repository contains my DSA practice solutions.
 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Python | [Concatenate Non-Zero Digits and Multiply by Sum II](4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | Construct Uniform Parity Array I | Easy | Python | [Construct Uniform Parity Array I](4256-construct-uniform-parity-array-i) |
 | Construct Uniform Parity Array II | Medium | Python | [Construct Uniform Parity Array II](4258-construct-uniform-parity-array-ii) |
+| Count Commas in Range | Easy | Python | [Count Commas in Range](4245-count-commas-in-range) |
 | Create Binary Tree From Descriptions | Medium | Python | [Create Binary Tree From Descriptions](2306-create-binary-tree-from-descriptions) |
 | Delete the Middle Node of a Linked List | Medium | Python | [Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) |
 | Distinct Subsequences | Hard | — | [Distinct Subsequences](115-distinct-subsequences) |
