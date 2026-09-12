@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **246**
-- Difficulty: **Hard**: 24, **Medium**: 85, **Easy**: 106, **Basic**: 31
+- Total problems discovered: **247**
+- Difficulty: **Hard**: 25, **Medium**: 85, **Easy**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -245,6 +245,7 @@ This repository contains my DSA practice solutions.
 | Maximum Length Substring With Two Occurrences | Easy | Python | [Maximum Length Substring With Two Occurrences](3349-maximum-length-substring-with-two-occurrences) |
 | Maximum Number of Balloons | Easy | Python | [Maximum Number of Balloons](1297-maximum-number-of-balloons) |
 | Maximum Product of Three Numbers | Easy | Python | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers) |
+| Maximum Score of Non-overlapping Intervals | Hard | Python | [Maximum Score of Non-overlapping Intervals](3562-maximum-score-of-non-overlapping-intervals) |
 | Maximum Total Subarray Value I | Medium | Python | [Maximum Total Subarray Value I](4005-maximum-total-subarray-value-i) |
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
