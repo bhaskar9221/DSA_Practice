@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **247**
-- Difficulty: **Hard**: 25, **Medium**: 85, **Easy**: 106, **Basic**: 31
+- Total problems discovered: **248**
+- Difficulty: **Hard**: 25, **Medium**: 86, **Easy**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -233,6 +233,7 @@ This repository contains my DSA practice solutions.
 | Find the Number of Subsequences With Equal GCD | Hard | Python | [Find the Number of Subsequences With Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) |
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
 | GCD of Odd and Even Sums | Easy | Python | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) |
+| Image Overlap | Medium | Python | [Image Overlap](864-image-overlap) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
 | Length of Longest Subarray With at Most K Frequency | Medium | — | [Length of Longest Subarray With at Most K Frequency](3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | Python | [Lexicographically Smallest Palindromic Permutation Greater Than Target](4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
