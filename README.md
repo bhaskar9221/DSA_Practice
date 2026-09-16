@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **248**
-- Difficulty: **Hard**: 25, **Medium**: 86, **Easy**: 106, **Basic**: 31
+- Total problems discovered: **249**
+- Difficulty: **Hard**: 25, **Medium**: 87, **Easy**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -256,6 +256,7 @@ This repository contains my DSA practice solutions.
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
+| Number of Sets of K Non-Overlapping Line Segments | Medium | Python | [Number of Sets of K Non-Overlapping Line Segments](1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
 | Number of Unique XOR Triplets I | Medium | Python | [Number of Unique XOR Triplets I](3824-number-of-unique-xor-triplets-i) |
 | Number of Unique XOR Triplets II | Medium | Python | [Number of Unique XOR Triplets II](3820-number-of-unique-xor-triplets-ii) |
