@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **249**
-- Difficulty: **Hard**: 25, **Medium**: 87, **Easy**: 106, **Basic**: 31
+- Total problems discovered: **250**
+- Difficulty: **Hard**: 25, **Medium**: 88, **Easy**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -232,6 +232,7 @@ This repository contains my DSA practice solutions.
 | Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
 | Find the Number of Subsequences With Equal GCD | Hard | Python | [Find the Number of Subsequences With Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) |
 | Find the Safest Path in a Grid | Medium | — | [Find the Safest Path in a Grid](2914-find-the-safest-path-in-a-grid) |
+| Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Python | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | GCD of Odd and Even Sums | Easy | Python | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) |
 | Image Overlap | Medium | Python | [Image Overlap](864-image-overlap) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
