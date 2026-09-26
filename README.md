@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **254**
-- Difficulty: **Hard**: 26, **Medium**: 90, **Easy**: 107, **Basic**: 31
+- Total problems discovered: **255**
+- Difficulty: **Hard**: 26, **Medium**: 91, **Easy**: 107, **Basic**: 31
 
 ---
 ## Array
@@ -225,6 +225,7 @@ This repository contains my DSA practice solutions.
 | Distribute Elements Into Two Arrays I | Easy | Python | [Distribute Elements Into Two Arrays I](3347-distribute-elements-into-two-arrays-i) |
 | Earliest Finish Time for Land and Water Rides I | Easy | Python | [Earliest Finish Time for Land and Water Rides I](3965-earliest-finish-time-for-land-and-water-rides-i) |
 | Earliest Finish Time for Land and Water Rides II | Medium | Python | [Earliest Finish Time for Land and Water Rides II](3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| Evaluate the Bracket Pairs of a String | Medium | Python | [Evaluate the Bracket Pairs of a String](1934-evaluate-the-bracket-pairs-of-a-string) |
 | Find Greatest Common Divisor of Array | Easy | — | [Find Greatest Common Divisor of Array](2106-find-greatest-common-divisor-of-array) |
 | Find Missing Elements | Easy | Python | [Find Missing Elements](4107-find-missing-elements) |
 | Find the Largest Almost Missing Integer | Easy | Python | [Find the Largest Almost Missing Integer](3705-find-the-largest-almost-missing-integer) |
