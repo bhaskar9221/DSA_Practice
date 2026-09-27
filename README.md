@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **255**
-- Difficulty: **Hard**: 26, **Medium**: 91, **Easy**: 107, **Basic**: 31
+- Total problems discovered: **256**
+- Difficulty: **Hard**: 26, **Medium**: 92, **Easy**: 107, **Basic**: 31
 
 ---
 ## Array
@@ -273,6 +273,7 @@ This repository contains my DSA practice solutions.
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
 | Remove Methods From Project | Medium | Python | [Remove Methods From Project](3561-remove-methods-from-project) |
 | Reverse Degree of a String | Easy | Python | [Reverse Degree of a String](3811-reverse-degree-of-a-string) |
+| Reverse Substrings Between Each Pair of Parentheses | Medium | Python | [Reverse Substrings Between Each Pair of Parentheses](1298-reverse-substrings-between-each-pair-of-parentheses) |
 | Sequential Digits | Medium | — | [Sequential Digits](1212-sequential-digits) |
 | Shift 2D Grid | Easy | — | [Shift 2D Grid](1386-shift-2d-grid) |
 | Smallest Divisible Digit Product I | Easy | Python | [Smallest Divisible Digit Product I](3626-smallest-divisible-digit-product-i) |
