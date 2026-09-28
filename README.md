@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **256**
-- Difficulty: **Hard**: 26, **Medium**: 92, **Easy**: 107, **Basic**: 31
+- Total problems discovered: **257**
+- Difficulty: **Hard**: 26, **Medium**: 92, **Easy**: 108, **Basic**: 31
 
 ---
 ## Array
@@ -248,6 +248,7 @@ This repository contains my DSA practice solutions.
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
 | Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
 | Maximum Length Substring With Two Occurrences | Easy | Python | [Maximum Length Substring With Two Occurrences](3349-maximum-length-substring-with-two-occurrences) |
+| Maximum Nesting Depth of the Parentheses | Easy | Python | [Maximum Nesting Depth of the Parentheses](1737-maximum-nesting-depth-of-the-parentheses) |
 | Maximum Number of Balloons | Easy | Python | [Maximum Number of Balloons](1297-maximum-number-of-balloons) |
 | Maximum Product of Three Numbers | Easy | Python | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers) |
 | Maximum Score of Non-overlapping Intervals | Hard | Python | [Maximum Score of Non-overlapping Intervals](3562-maximum-score-of-non-overlapping-intervals) |
