@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **259**
-- Difficulty: **Hard**: 27, **Medium**: 93, **Easy**: 108, **Basic**: 31
+- Total problems discovered: **260**
+- Difficulty: **Hard**: 27, **Medium**: 94, **Easy**: 108, **Basic**: 31
 
 ---
 ## Array
@@ -238,6 +238,7 @@ This repository contains my DSA practice solutions.
 | Find X Value of Array I | Medium | Python | [Find X Value of Array I](3831-find-x-value-of-array-i) |
 | Find X Value of Array II | Hard | Python | [Find X Value of Array II](3840-find-x-value-of-array-ii) |
 | GCD of Odd and Even Sums | Easy | Python | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) |
+| Generate Parentheses | Medium | — | [Generate Parentheses](22-generate-parentheses) |
 | Image Overlap | Medium | Python | [Image Overlap](864-image-overlap) |
 | Left and Right Sum Differences | Easy | Python | [Left and Right Sum Differences](2714-left-and-right-sum-differences) |
 | Length of Longest Subarray With at Most K Frequency | Medium | — | [Length of Longest Subarray With at Most K Frequency](3225-length-of-longest-subarray-with-at-most-k-frequency) |
