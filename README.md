@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **263**
-- Difficulty: **Hard**: 27, **Medium**: 97, **Easy**: 108, **Basic**: 31
+- Total problems discovered: **264**
+- Difficulty: **Easy**: 109, **Hard**: 27, **Medium**: 97, **Basic**: 31
 
 ---
 ## Array
@@ -277,6 +277,7 @@ This repository contains my DSA practice solutions.
 | Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
 | Remove Methods From Project | Medium | Python | [Remove Methods From Project](3561-remove-methods-from-project) |
+| Remove Outermost Parentheses | Easy | Python | [Remove Outermost Parentheses](1078-remove-outermost-parentheses) |
 | Reverse Degree of a String | Easy | Python | [Reverse Degree of a String](3811-reverse-degree-of-a-string) |
 | Reverse Substrings Between Each Pair of Parentheses | Medium | Python | [Reverse Substrings Between Each Pair of Parentheses](1298-reverse-substrings-between-each-pair-of-parentheses) |
 | Score of Parentheses | Medium | Python | [Score of Parentheses](886-score-of-parentheses) |
