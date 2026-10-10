@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **264**
-- Difficulty: **Easy**: 109, **Hard**: 27, **Medium**: 97, **Basic**: 31
+- Total problems discovered: **265**
+- Difficulty: **Easy**: 109, **Hard**: 27, **Medium**: 98, **Basic**: 31
 
 ---
 ## Array
@@ -264,6 +264,7 @@ This repository contains my DSA practice solutions.
 | Minimum Number of Pushes to Type Word I | Easy | — | [Minimum Number of Pushes to Type Word I](3275-minimum-number-of-pushes-to-type-word-i) |
 | Minimum Operations to Reduce X to Zero | Medium | Python | [Minimum Operations to Reduce X to Zero](1776-minimum-operations-to-reduce-x-to-zero) |
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
+| Minimum Sum of Squared Difference | Medium | — | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python | [Number of Sets of K Non-Overlapping Line Segments](1725-number-of-sets-of-k-non-overlapping-line-segments) |
