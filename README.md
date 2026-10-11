@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **265**
-- Difficulty: **Easy**: 109, **Hard**: 27, **Medium**: 98, **Basic**: 31
+- Total problems discovered: **266**
+- Difficulty: **Easy**: 110, **Hard**: 27, **Medium**: 98, **Basic**: 31
 
 ---
 ## Array
@@ -294,6 +294,7 @@ This repository contains my DSA practice solutions.
 | Stone Game IV | Hard | Python | [Stone Game IV](1617-stone-game-iv) |
 | Stone Game V | Hard | Python | [Stone Game V](1685-stone-game-v) |
 | Sum Game | Medium | Python | [Sum Game](2039-sum-game) |
+| Sum of Squares of Special Elements | Easy | Python | [Sum of Squares of Special Elements](2844-sum-of-squares-of-special-elements) |
 | Total Waviness of Numbers in Range I | Medium | Python | [Total Waviness of Numbers in Range I](4057-total-waviness-of-numbers-in-range-i) |
 | Unique 3-Digit Even Numbers | Easy | — | [Unique 3-Digit Even Numbers](3799-unique-3-digit-even-numbers) |
 | Valid Parenthesis String | Medium | Python | [Valid Parenthesis String](678-valid-parenthesis-string) |
