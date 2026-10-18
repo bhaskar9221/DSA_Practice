@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **268**
-- Difficulty: **Easy**: 110, **Hard**: 28, **Medium**: 99, **Basic**: 31
+- Total problems discovered: **269**
+- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 99, **Basic**: 31
 
 ---
 ## Array
@@ -274,6 +274,7 @@ This repository contains my DSA practice solutions.
 | Number of Unique XOR Triplets II | Medium | Python | [Number of Unique XOR Triplets II](3820-number-of-unique-xor-triplets-ii) |
 | Number of Ways to Assign Edge Weights I | Medium | Python | [Number of Ways to Assign Edge Weights I](3844-number-of-ways-to-assign-edge-weights-i) |
 | Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
+| Number of Ways to Reorder Array to Get Same BST | Hard | Python | [Number of Ways to Reorder Array to Get Same BST](1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
 | Partition Array According to Given Pivot | Medium | — | [Partition Array According to Given Pivot](2265-partition-array-according-to-given-pivot) |
 | Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
