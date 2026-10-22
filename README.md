@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **270**
-- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 100, **Basic**: 31
+- Total problems discovered: **271**
+- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 101, **Basic**: 31
 
 ---
 ## Array
@@ -263,6 +263,7 @@ This repository contains my DSA practice solutions.
 | Minimum Moves to Clean the Classroom | Medium | Python | [Minimum Moves to Clean the Classroom](3870-minimum-moves-to-clean-the-classroom) |
 | Minimum Number of Pushes to Type Word I | Easy | — | [Minimum Number of Pushes to Type Word I](3275-minimum-number-of-pushes-to-type-word-i) |
 | Minimum Operations to Reduce X to Zero | Medium | Python | [Minimum Operations to Reduce X to Zero](1776-minimum-operations-to-reduce-x-to-zero) |
+| Minimum Operations to Sort a Permutation | Medium | — | [Minimum Operations to Sort a Permutation](4184-minimum-operations-to-sort-a-permutation) |
 | Minimum Operations to Sort a String | Medium | Python | [Minimum Operations to Sort a String](4220-minimum-operations-to-sort-a-string) |
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Minimum Sum of Squared Difference | Medium | — | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) |
