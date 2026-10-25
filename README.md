@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **271**
-- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 101, **Basic**: 31
+- Total problems discovered: **272**
+- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 102, **Basic**: 31
 
 ---
 ## Array
@@ -269,6 +269,7 @@ This repository contains my DSA practice solutions.
 | Minimum Sum of Squared Difference | Medium | — | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) |
 | Minimum Swaps to Sort by Digit Sum | Medium | — | [Minimum Swaps to Sort by Digit Sum](3847-minimum-swaps-to-sort-by-digit-sum) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
+| Number of Closed Islands | Medium | Python | [Number of Closed Islands](1380-number-of-closed-islands) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python | [Number of Sets of K Non-Overlapping Line Segments](1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
