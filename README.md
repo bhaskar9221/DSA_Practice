@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **272**
-- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 102, **Basic**: 31
+- Total problems discovered: **273**
+- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 103, **Basic**: 31
 
 ---
 ## Array
@@ -268,6 +268,7 @@ This repository contains my DSA practice solutions.
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Minimum Sum of Squared Difference | Medium | — | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) |
 | Minimum Swaps to Sort by Digit Sum | Medium | — | [Minimum Swaps to Sort by Digit Sum](3847-minimum-swaps-to-sort-by-digit-sum) |
+| Minimum XOR Path in a Grid | Medium | — | [Minimum XOR Path in a Grid](4205-minimum-xor-path-in-a-grid) |
 | Network Recovery Pathways | Hard | Python | [Network Recovery Pathways](3919-network-recovery-pathways) |
 | Number of Closed Islands | Medium | Python | [Number of Closed Islands](1380-number-of-closed-islands) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
