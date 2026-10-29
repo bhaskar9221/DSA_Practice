@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **273**
-- Difficulty: **Easy**: 110, **Hard**: 29, **Medium**: 103, **Basic**: 31
+- Total problems discovered: **274**
+- Difficulty: **Easy**: 110, **Hard**: 30, **Medium**: 103, **Basic**: 31
 
 ---
 ## Array
@@ -280,6 +280,7 @@ This repository contains my DSA practice solutions.
 | Number of Ways to Assign Edge Weights II | Hard | Python | [Number of Ways to Assign Edge Weights II](3842-number-of-ways-to-assign-edge-weights-ii) |
 | Number of Ways to Reorder Array to Get Same BST | Hard | Python | [Number of Ways to Reorder Array to Get Same BST](1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | Number of ZigZag Arrays I | Hard | Python | [Number of ZigZag Arrays I](3962-number-of-zigzag-arrays-i) |
+| Palindromic Path Queries in a Tree | Hard | — | [Palindromic Path Queries in a Tree](4209-palindromic-path-queries-in-a-tree) |
 | Partition Array According to Given Pivot | Medium | — | [Partition Array According to Given Pivot](2265-partition-array-according-to-given-pivot) |
 | Path Existence Queries in a Graph I | Medium | Python | [Path Existence Queries in a Graph I](3838-path-existence-queries-in-a-graph-i) |
 | Process String with Special Operations II | Hard | Python | [Process String with Special Operations II](3939-process-string-with-special-operations-ii) |
