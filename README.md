@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **274**
-- Difficulty: **Easy**: 110, **Hard**: 30, **Medium**: 103, **Basic**: 31
+- Total problems discovered: **275**
+- Difficulty: **Easy**: 110, **Hard**: 30, **Medium**: 104, **Basic**: 31
 
 ---
 ## Array
@@ -261,6 +261,7 @@ This repository contains my DSA practice solutions.
 | Minimum Add to Make Parentheses Valid | Medium | Python | [Minimum Add to Make Parentheses Valid](957-minimum-add-to-make-parentheses-valid) |
 | Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
 | Minimum Moves to Clean the Classroom | Medium | Python | [Minimum Moves to Clean the Classroom](3870-minimum-moves-to-clean-the-classroom) |
+| Minimum Moves to Equal Array Elements II | Medium | Python | [Minimum Moves to Equal Array Elements II](462-minimum-moves-to-equal-array-elements-ii) |
 | Minimum Number of Pushes to Type Word I | Easy | — | [Minimum Number of Pushes to Type Word I](3275-minimum-number-of-pushes-to-type-word-i) |
 | Minimum Operations to Reduce X to Zero | Medium | Python | [Minimum Operations to Reduce X to Zero](1776-minimum-operations-to-reduce-x-to-zero) |
 | Minimum Operations to Sort a Permutation | Medium | — | [Minimum Operations to Sort a Permutation](4184-minimum-operations-to-sort-a-permutation) |
