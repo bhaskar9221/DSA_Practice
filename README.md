@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **276**
-- Difficulty: **Easy**: 110, **Hard**: 31, **Medium**: 104, **Basic**: 31
+- Total problems discovered: **277**
+- Difficulty: **Easy**: 111, **Hard**: 31, **Medium**: 104, **Basic**: 31
 
 ---
 ## Array
@@ -244,6 +244,7 @@ This repository contains my DSA practice solutions.
 | Length of Longest Subarray With at Most K Frequency | Medium | — | [Length of Longest Subarray With at Most K Frequency](3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | Python | [Lexicographically Smallest Palindromic Permutation Greater Than Target](4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | Lexicographically Smallest Permutation Greater Than Target | Medium | Python | [Lexicographically Smallest Permutation Greater Than Target](4020-lexicographically-smallest-permutation-greater-than-target) |
+| Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | — | [Longest Strictly Increasing or Strictly Decreasing Subarray](3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Python | [Longest Subsequence With Non-Zero Bitwise XOR](4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | Longest Substring of One Repeating Character | Hard | Python | [Longest Substring of One Repeating Character](2319-longest-substring-of-one-repeating-character) |
 | Maximize Active Section with Trade II | Hard | Python | [Maximize Active Section with Trade II](3804-maximize-active-section-with-trade-ii) |
