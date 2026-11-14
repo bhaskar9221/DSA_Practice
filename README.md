@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **278**
-- Difficulty: **Easy**: 111, **Hard**: 32, **Medium**: 104, **Basic**: 31
+- Total problems discovered: **279**
+- Difficulty: **Easy**: 112, **Hard**: 32, **Medium**: 104, **Basic**: 31
 
 ---
 ## Array
@@ -269,6 +269,7 @@ This repository contains my DSA practice solutions.
 | Minimum Operations to Reduce X to Zero | Medium | Python | [Minimum Operations to Reduce X to Zero](1776-minimum-operations-to-reduce-x-to-zero) |
 | Minimum Operations to Sort a Permutation | Medium | — | [Minimum Operations to Sort a Permutation](4184-minimum-operations-to-sort-a-permutation) |
 | Minimum Operations to Sort a String | Medium | Python | [Minimum Operations to Sort a String](4220-minimum-operations-to-sort-a-string) |
+| Minimum Positive Sum Subarray | Easy | Python | [Minimum Positive Sum Subarray](3644-minimum-positive-sum-subarray) |
 | Minimum Score of a Path Between Two Cities | Medium | Python | [Minimum Score of a Path Between Two Cities](2582-minimum-score-of-a-path-between-two-cities) |
 | Minimum Sum of Squared Difference | Medium | — | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) |
 | Minimum Swaps to Sort by Digit Sum | Medium | — | [Minimum Swaps to Sort by Digit Sum](3847-minimum-swaps-to-sort-by-digit-sum) |
