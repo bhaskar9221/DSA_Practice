@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **279**
-- Difficulty: **Easy**: 112, **Hard**: 32, **Medium**: 104, **Basic**: 31
+- Total problems discovered: **280**
+- Difficulty: **Easy**: 112, **Hard**: 32, **Medium**: 105, **Basic**: 31
 
 ---
 ## Array
@@ -278,6 +278,7 @@ This repository contains my DSA practice solutions.
 | Number of Closed Islands | Medium | Python | [Number of Closed Islands](1380-number-of-closed-islands) |
 | Number of Paths with Max Score | Hard | Python | [Number of Paths with Max Score](1234-number-of-paths-with-max-score) |
 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python | [Number of Sets of K Non-Overlapping Line Segments](1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| Number of Sub-arrays With Odd Sum | Medium | Python | [Number of Sub-arrays With Odd Sum](1631-number-of-sub-arrays-with-odd-sum) |
 | Number of Substrings Containing All Three Characters | Medium | Python | [Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) |
 | Number of Unique XOR Triplets I | Medium | Python | [Number of Unique XOR Triplets I](3824-number-of-unique-xor-triplets-i) |
 | Number of Unique XOR Triplets II | Medium | Python | [Number of Unique XOR Triplets II](3820-number-of-unique-xor-triplets-ii) |
