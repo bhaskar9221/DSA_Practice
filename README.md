@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **280**
-- Difficulty: **Easy**: 112, **Hard**: 32, **Medium**: 105, **Basic**: 31
+- Total problems discovered: **281**
+- Difficulty: **Easy**: 112, **Hard**: 33, **Medium**: 105, **Basic**: 31
 
 ---
 ## Array
@@ -261,6 +261,7 @@ This repository contains my DSA practice solutions.
 | Maximum Total Subarray Value II | Hard | Python | [Maximum Total Subarray Value II](4007-maximum-total-subarray-value-ii) |
 | Maximum Twin Sum of a Linked List | Medium | — | [Maximum Twin Sum of a Linked List](2236-maximum-twin-sum-of-a-linked-list) |
 | Minimum Add to Make Parentheses Valid | Medium | Python | [Minimum Add to Make Parentheses Valid](957-minimum-add-to-make-parentheses-valid) |
+| Minimum Changes to Make K Semi-palindromes | Hard | — | [Minimum Changes to Make K Semi-palindromes](2879-minimum-changes-to-make-k-semi-palindromes) |
 | Minimum Cost of Buying Candies With Discount | Easy | Python | [Minimum Cost of Buying Candies With Discount](2248-minimum-cost-of-buying-candies-with-discount) |
 | Minimum Moves to Clean the Classroom | Medium | Python | [Minimum Moves to Clean the Classroom](3870-minimum-moves-to-clean-the-classroom) |
 | Minimum Moves to Equal Array Elements II | Medium | Python | [Minimum Moves to Equal Array Elements II](462-minimum-moves-to-equal-array-elements-ii) |
