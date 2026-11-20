@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **281**
-- Difficulty: **Easy**: 112, **Hard**: 33, **Medium**: 105, **Basic**: 31
+- Total problems discovered: **282**
+- Difficulty: **Easy**: 112, **Hard**: 34, **Medium**: 105, **Basic**: 31
 
 ---
 ## Array
@@ -249,6 +249,7 @@ This repository contains my DSA practice solutions.
 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Python | [Longest Subsequence With Non-Zero Bitwise XOR](4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | Longest Substring of One Repeating Character | Hard | Python | [Longest Substring of One Repeating Character](2319-longest-substring-of-one-repeating-character) |
 | Maximize Active Section with Trade II | Hard | Python | [Maximize Active Section with Trade II](3804-maximize-active-section-with-trade-ii) |
+| Maximize Consecutive Elements in an Array After Modification | Hard | Python | [Maximize Consecutive Elements in an Array After Modification](3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | Maximum Building Height | Hard | Python | [Maximum Building Height](1968-maximum-building-height) |
 | Maximum Element After Decreasing and Rearranging | Medium | Python | [Maximum Element After Decreasing and Rearranging](1956-maximum-element-after-decreasing-and-rearranging) |
 | Maximum Length Substring With Two Occurrences | Easy | Python | [Maximum Length Substring With Two Occurrences](3349-maximum-length-substring-with-two-occurrences) |
