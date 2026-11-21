@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **282**
-- Difficulty: **Easy**: 112, **Hard**: 34, **Medium**: 105, **Basic**: 31
+- Total problems discovered: **283**
+- Difficulty: **Easy**: 112, **Hard**: 34, **Medium**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -230,6 +230,7 @@ This repository contains my DSA practice solutions.
 | Evaluate the Bracket Pairs of a String | Medium | Python | [Evaluate the Bracket Pairs of a String](1934-evaluate-the-bracket-pairs-of-a-string) |
 | Find Greatest Common Divisor of Array | Easy | — | [Find Greatest Common Divisor of Array](2106-find-greatest-common-divisor-of-array) |
 | Find Missing Elements | Easy | Python | [Find Missing Elements](4107-find-missing-elements) |
+| Find Subtree Sizes After Changes | Medium | — | [Find Subtree Sizes After Changes](3576-find-subtree-sizes-after-changes) |
 | Find the Largest Almost Missing Integer | Easy | Python | [Find the Largest Almost Missing Integer](3705-find-the-largest-almost-missing-integer) |
 | Find the Lexicographically Smallest Valid Sequence | Medium | — | [Find the Lexicographically Smallest Valid Sequence](3584-find-the-lexicographically-smallest-valid-sequence) |
 | Find the Maximum Number of Elements in Subset | Medium | Python | [Find the Maximum Number of Elements in Subset](3299-find-the-maximum-number-of-elements-in-subset) |
