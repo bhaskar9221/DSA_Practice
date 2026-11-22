@@ -4,8 +4,8 @@ This repository contains my DSA practice solutions.
 <!-- GENERATED-README:START -->
 # DSA_Practice — Auto-generated summary
 
-- Total problems discovered: **283**
-- Difficulty: **Easy**: 112, **Hard**: 34, **Medium**: 106, **Basic**: 31
+- Total problems discovered: **284**
+- Difficulty: **Easy**: 113, **Hard**: 34, **Medium**: 106, **Basic**: 31
 
 ---
 ## Array
@@ -213,6 +213,7 @@ This repository contains my DSA practice solutions.
 |---|---:|---|---|
 | Angle Between Hands of a Clock | Medium | Python | [Angle Between Hands of a Clock](1446-angle-between-hands-of-a-clock) |
 | Car Fleet | Medium | Python | [Car Fleet](883-car-fleet) |
+| Check if All A's Appears Before All B's | Easy | Python | [Check if All A's Appears Before All B's](2243-check-if-all-as-appears-before-all-bs) |
 | Check if There Is a Valid Parentheses String Path | Hard | Python | [Check if There Is a Valid Parentheses String Path](2349-check-if-there-is-a-valid-parentheses-string-path) |
 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Python | [Concatenate Non-Zero Digits and Multiply by Sum II](4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | Construct Uniform Parity Array I | Easy | Python | [Construct Uniform Parity Array I](4256-construct-uniform-parity-array-i) |
